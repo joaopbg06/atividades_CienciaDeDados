@@ -11,5 +11,5 @@ dados1 = {
 
 df_planilha1 = pcd.DataFrame(dados1)
 
-with pcd.ExcelWriter("dadosEstruturados1.xlsx") as writer:
+with pcd.ExcelWriter("manipulacao_dados/criacaoELeituraDeDados/dadosEstruturados1.xlsx") as writer:
     df_planilha1.to_excel(writer, sheet_name='Planilha1', index=False,)

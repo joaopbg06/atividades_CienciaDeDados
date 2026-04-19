@@ -8,4 +8,4 @@ dados2 = {
 
 df_json = pcd.DataFrame(dados2)
 
-df_json.to_json('dadosSemi.json', orient='records', lines=False)
+df_json.to_json('manipulacao_dados/criacaoELeituraDeDados/dadosSemi.json', orient='records', lines=False)
