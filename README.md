@@ -4,27 +4,27 @@ Este repositório contém exercícios e projetos focados em Ciência de Dados ut
 
 ## Conteúdo do Repositório
 1. Fundamentos de Programação (Python)
-1.1  Exercícios práticos envolvendo a base da linguagem:
+* Exercícios práticos envolvendo a base da linguagem:
 
-  -  Estruturas condicionais (if/else).
+*  Estruturas condicionais (if/else).
 
-  -  Estruturas de repetição (loops).
+*  Estruturas de repetição (loops).
 
-  -  Manipulação de listas, arrays e coleções.
+*  Manipulação de listas, arrays e coleções.
 
 2. Análise e Visualização de Dados
-- Manipulação e tratamento de datasets.
+* Manipulação e tratamento de datasets.
 
-- Geração de gráficos para análise exploratória.
+* Geração de gráficos para análise exploratória.
 
 3. Coleta de Dados
--  Implementação de Web Scraping para extração de informações de sites.
+*  Implementação de Web Scraping para extração de informações de sites.
 
 4. APIs e Persistência de Dados
--  Desenvolvimento e integração de APIs conectadas a diferentes modelos de bancos de dados:
+*  Desenvolvimento e integração de APIs conectadas a diferentes modelos de bancos de dados:
 
--  Relacional: Estruturas SQL tradicionais.
+*  Relacional: Estruturas SQL tradicionais.
 
--  Não-estruturado / Semi-relacional: Implementações com foco em flexibilidade de dados (NoSQL/Documentos).
+*  Não-estruturado / Semi-relacional: Implementações com foco em flexibilidade de dados (NoSQL/Documentos).
 
--  Local: Armazenamento e persistência em ambiente local.
+*  Local: Armazenamento e persistência em ambiente local.
