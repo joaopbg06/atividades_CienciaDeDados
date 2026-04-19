@@ -7,7 +7,7 @@ from streamlit_option_menu import option_menu
 st.set_page_config(page_title="Dashboard de Vendas", page_icon="☢️", layout="wide")
 
 # Carregar dados
-df = pd.read_excel('Vendas.xlsx')
+df = pd.read_excel('plotGrafico/Vendas.xlsx')
 
 # FILTROS
 # Sidebar

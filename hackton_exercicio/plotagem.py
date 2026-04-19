@@ -8,8 +8,8 @@ st.set_page_config(page_title="Dashboard financeiro", page_icon="🛒", layout="
 
 # Carregar dados
 
-df_despesas = pd.read_excel('./limpo/despesas_limpo.xlsx')
-df_orcamentos = pd.read_excel('./limpo/orcamentos_limpo.xlsx')
+df_despesas = pd.read_excel('hackton_exercicio/limpo/despesas_limpo.xlsx')
+df_orcamentos = pd.read_excel('hackton_exercicio/limpo/orcamentos_limpo.xlsx')
 
 # FILTROS
 # Sidebar
