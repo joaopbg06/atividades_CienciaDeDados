@@ -4,13 +4,13 @@ Este repositório contém exercícios e projetos focados em Ciência de Dados ut
 
 ## Conteúdo do Repositório
 1. Fundamentos de Programação (Python)
--  Exercícios práticos envolvendo a base da linguagem:
+  -  Exercícios práticos envolvendo a base da linguagem:
 
--  Estruturas condicionais (if/else).
+  -  Estruturas condicionais (if/else).
 
--  Estruturas de repetição (loops).
+  -  Estruturas de repetição (loops).
 
--  Manipulação de listas, arrays e coleções.
+  -  Manipulação de listas, arrays e coleções.
 
 2. Análise e Visualização de Dados
 - Manipulação e tratamento de datasets.
